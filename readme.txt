@@ -1,6 +1,6 @@
 Arquivo principal: form.php
 Iniciar a aplicação pelo arquivo principal.
-Considerações sobre a aplicação, em teste com um total de 15 links com 5 de profundidade,
+Considerações sobre a aplicação, em teste com um total de 20 links com 5 de profundidade,
 demorou cerca de 41 minutos para completar a tarefa retornando os 15 links.
 
 Parâmetros usados -> url: www.globo.com, depth: 5
